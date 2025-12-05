@@ -1,1 +1,6 @@
-# .github
+# Laradoc Trans Lab
+
+
+使用 LLM 對 Laravel 官方文件進行翻譯
+
+並且利用其他工具生成電子書
